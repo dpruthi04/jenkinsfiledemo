@@ -24,6 +24,7 @@ node {
     // Testing
 }
 /*
+hello
 stage name: 'build'
 node {
     if (isUnix()) {
