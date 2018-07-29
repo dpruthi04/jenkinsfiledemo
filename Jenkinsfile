@@ -13,9 +13,7 @@ node {
 /*
     wrap([$class: 'Groovy']) {
         def script = '''
-	
-	
-	
+	hello	
         println "\n\nSystem Properties"
         System.properties.each { k,v -> println "$k = $v" }
         println "\n\nEnvironment"
