@@ -18,7 +18,7 @@ node {
         System.properties.each { k,v -> println "$k = $v" }
         println "\n\nEnvironment"
         System.getenv().each { k,v -> println "$k = $v" }
-'''
+''''''
     }
 */
 
